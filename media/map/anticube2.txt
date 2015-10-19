@@ -1,0 +1,18 @@
+Credits:
+
+Map: Kv
+Testing: TristamK, Fishgius
+Textures: Base Tesseract textures (Nieb and others), Kv, seamless-pixels.blogspot.com, Khorne, Lunaran
+Models: Kv, Ardelico
+Sky: Base Tesseract skyboxes (cgtextures?), Kv
+Sounds: juskiddink, dobroide, funai, Zgump, Cbakos, Dave Welsh, dikolson, Kv
+
+Music:
+
+CaveAmbient - Huder https://soundcloud.com/jakub-michalski-2/abstract-cave-ambient
+MeltingCrystals - Tolubai https://soundcloud.com/tolubai/melting-crystals
+Orchestral - Steven O’Brien https://soundcloud.com/stevenobrien/rejected-ambient-orchestral
+PhryozeaAmbient - Winter_Darkace https://soundcloud.com/winter_darkace/phryozea-ambient-night-1
+
+
+Map's theme and concepts are greately inspired by Antichamber and NaissanceE, great games with strong surreal atmosphere.

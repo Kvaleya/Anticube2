@@ -1,0 +1,17 @@
+Sounds:
+
+bell - Zgump
+darkboom - Kv
+lightpop - Cbakos
+mybell - Kv
+thunder2 - Dave Welsh
+wallappear - Kv
+wallappear2 - Kv
+koule - Kv
+
+Music:
+
+CaveAmbient - Huder https://soundcloud.com/jakub-michalski-2/abstract-cave-ambient
+MeltingCrystals - Tolubai https://soundcloud.com/tolubai/melting-crystals
+Orchestral - Steven O’Brien https://soundcloud.com/stevenobrien/rejected-ambient-orchestral
+PhryozeaAmbient - Winter_Darkace https://soundcloud.com/winter_darkace/phryozea-ambient-night-1
