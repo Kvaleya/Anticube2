@@ -1,3 +1,5 @@
+My sounds (Kv) were created with ZynAddSubFX. Treat them as if they were CC0.
+
 Sounds:
 
 bell - Zgump

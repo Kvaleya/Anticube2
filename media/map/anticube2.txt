@@ -1,3 +1,5 @@
+Run the map by typing "/map ac2" into chat (or console).
+
 Credits:
 
 Map: Kv
